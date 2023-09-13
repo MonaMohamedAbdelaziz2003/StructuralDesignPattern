@@ -21,3 +21,11 @@ developed independently of each other.
 <br>
 <img src="https://www.baeldung.com/wp-content/uploads/2017/09/zfq_OUu_M.jpg">
 <hr>
+<h3><a href="composit pattern">3- Composit Pattern </a></h3>
+<li>
+Composite is a structural design pattern that lets you compose
+objects into tree structures and then work with these
+structures as if they were individual objects.</li>
+<br>
+<img src="https://javadevcentral.com/wp-content/uploads/2020/06/CompositeDesignPattern.png?x70018">
+<hr>
