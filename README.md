@@ -29,3 +29,11 @@ structures as if they were individual objects.</li>
 <br>
 <img src="https://javadevcentral.com/wp-content/uploads/2020/06/CompositeDesignPattern.png?x70018">
 <hr>
+<h3><a href="decorator patrern">3- Decorator patrern </a></h3>
+<li>
+Decorator is a structural design pattern that lets you attach
+new behaviors to objects by placing these objects inside
+special wrapper objects that contain the behaviors.</li>
+<br>
+<img src="https://www.bogotobogo.com/DesignPatterns/images/decorator/decorator_diagram.gif">
+<hr>
