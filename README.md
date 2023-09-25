@@ -37,7 +37,7 @@ special wrapper objects that contain the behaviors.</li>
 <br>
 <img src="https://www.bogotobogo.com/DesignPatterns/images/decorator/decorator_diagram.gif">
 <hr>
-<h3><a href="facade patrern">5- Facade patrern </a></h3>
+<h3><a href="facade pattern">5- Facade patrern </a></h3>
 <li>
 Facade is a structural design pattern that provides a simplified
 interface to a library, a framework, or any other complex set of
