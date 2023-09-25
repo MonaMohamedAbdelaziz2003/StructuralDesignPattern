@@ -29,11 +29,20 @@ structures as if they were individual objects.</li>
 <br>
 <img src="https://javadevcentral.com/wp-content/uploads/2020/06/CompositeDesignPattern.png?x70018">
 <hr>
-<h3><a href="decorator patrern">3- Decorator patrern </a></h3>
+<h3><a href="decorator patrern">4- Decorator patrern </a></h3>
 <li>
 Decorator is a structural design pattern that lets you attach
 new behaviors to objects by placing these objects inside
 special wrapper objects that contain the behaviors.</li>
 <br>
 <img src="https://www.bogotobogo.com/DesignPatterns/images/decorator/decorator_diagram.gif">
+<hr>
+<h3><a href="facade patrern">5- Facade patrern </a></h3>
+<li>
+Facade is a structural design pattern that provides a simplified
+interface to a library, a framework, or any other complex set of
+classes
+</li>
+<br>
+<img src="https://programmerlib.com/wp-content/uploads/2020/07/facade-1-800x445.png">
 <hr>
