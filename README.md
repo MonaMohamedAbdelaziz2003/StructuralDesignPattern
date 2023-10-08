@@ -46,3 +46,16 @@ classes
 <br>
 <img src="https://programmerlib.com/wp-content/uploads/2020/07/facade-1-800x445.png">
 <hr>
+<br>
+<img src="https://www.bogotobogo.com/DesignPatterns/images/decorator/decorator_diagram.gif">
+<hr>
+<h3><a href="flyweight pattern">6- Flyweight patrern </a></h3>
+<li>
+Flyweight is a structural design pattern that lets you fit more
+objects into the available amount of RAM by sharing common
+parts of state between multiple objects instead of keeping all
+of the data in each object
+</li>
+<br>
+<img src="https://programmerlib.com/wp-content/uploads/2020/07/facade-1-800x445.png">
+<hr>
