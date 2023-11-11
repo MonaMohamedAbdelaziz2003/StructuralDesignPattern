@@ -65,3 +65,16 @@ of the data in each object
 <br>
 <img src="https://javagyansite.files.wordpress.com/2016/08/screen-shot-2016-08-22-at-11-24-36-am.png">
 <hr>
+
+
+<h3><a href="proxy pattern"> 7- Proxy patrern </a></h3>
+<li>
+Proxy is a structural design pattern that lets you provide a
+substitute or placeholder for another object. A proxy controls
+access to the original object, allowing you to perform
+something either before or after the request gets through to
+the original object.
+</li>
+<br>
+<img src="https://www.oreilly.com/api/v2/epubs/9781785888038/files/graphics/B05180_05_01.jpg">
+<hr>
